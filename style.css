@@ -1,0 +1,15 @@
+
+
+* i{ font-family: 'Material Icons'; }
+
+.fab-container {
+    position: fixed;
+    bottom: 2rem;
+    left:2rem;
+    z-index: 9999;
+}
+
+body {
+    font-size: .8rem;
+    overflow-x: hidden;
+}
